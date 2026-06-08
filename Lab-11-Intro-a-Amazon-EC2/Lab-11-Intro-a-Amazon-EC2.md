@@ -62,6 +62,9 @@ ___
 ___
 
 # Tarea 3: Actualizar el grupo de seguridad y editar reglas de entrada, para habilitar el acceso por http y acceder al servidor web
+
+*Antes de hacer esto, no podía acceder al servidor desde el navegador. Entonces, esto es necesario para que la ip sea pública.
+
 ![](src/Consola-securitygroups.png)
 ![](src/Editarreglasdeentrada.png)
 ![](src/TypeHTTP.png)
