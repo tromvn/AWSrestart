@@ -59,21 +59,20 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 
 ### Introducción
 
-* [Lab 1: Entorno de pruebas](./Entrega1/Lab-1-Entorno-de-Pruebas/)
-* [Lab 11: Introducción a Amazon EC2](./Entrega1/Lab-1-Entorno-de-Pruebas/)
+* [Lab 1: Entorno de pruebas](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
+* [Lab 11: Introducción a Amazon EC2](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
 
 #### Linux
 
-* [Lab 225: Introduccion a Linux Amazon AMI](./Entrega1/Lab-225-Introduccion-a-Linux-Amazon-AMI/)
-* [Lab 227: Linea de comandos de Linux](./Entrega1/Lab-227-Linea-de-comandos-de-Linux/)
-* [Lab 229: Usuarios y grupos](./Entrega1/Lab-229-Usuarios-y-grupos/)
-* [Lab 231: Edicion de archivos](./Entrega1/Lab-231-Edicion-de-archivos/)
-* [Lab 233: Trabajo con el sistema de archivos](./Entrega1/Lab-233-Trabajo-con-el-sistema-de-archivos/)
-* [Lab 235: Trabajo con archivos](./Entrega1/Lab-235-Trabajo-con-archivos/)
-* [Lab 237: Administración de los permisos de archivos](./Entrega1/Lab-237-Administración-de-los-permisos-de-archivos/)
-* [Lab 239: Procesos administrativos](./Entrega1/Lab-239-Procesos-administrativos/)
+* [Lab 225: Introduccion a Linux Amazon AMI](./Entrega-1/Lab-225-Introduccion-a-Linux-Amazon-AMI/)
+* [Lab 227: Linea de comandos de Linux](./Entrega-1/Lab-227-Linea-de-comandos-de-Linux/)
+* [Lab 229: Usuarios y grupos](./Entrega-1/Lab-229-Usuarios-y-grupos/)
+* [Lab 231: Edicion de archivos](./Entrega-1/Lab-231-Edicion-de-archivos/)
+* [Lab 233: Trabajo con el sistema de archivos](./Entrega-1/Lab-233-Trabajo-con-el-sistema-de-archivos/)
+* [Lab 235: Trabajo con archivos](./Entrega-1/Lab-235-Trabajo-con-archivos/)
+* [Lab 237: Administración de los permisos de archivos](./Entrega-1/Lab-237-Administración-de-los-permisos-de-archivos/)
+* [Lab 239: Procesos administrativos](./Entrega-1/Lab-239-Procesos-administrativos/)
 
 ##### Observaciones
 
 El paso de conexión por SSH a la instancia es bastante repetitivo y pienso quitarlo en la siguiente entrega.
-
