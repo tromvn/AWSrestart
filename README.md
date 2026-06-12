@@ -1,0 +1,78 @@
+# Documentación de Laboratorios
+
+Este es un repositorio donde creo la documentación de los laboratorios realizados en el programa AWS re/Start, cursado en Morris&Opazo.
+
+## Estructura de trabajo
+
+Aquí detallo cómo están organizados los directorios, omitiendo algunos documentos que reservo en local y los correspondientes a git. Se subdivide por cada grupo de laboratorios de entrega en los directorios "Entrega-[n°]". Allí, cada directorio tiene prefijo Lab, su número y su nombre. Dentro el README.md y en src/ las imágenes usadas. 
+
+Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
+
+**nota:** El árbol se irá actualizando y reestructurando conforme avancen las entregas, para mejor visualización. 
+
+```
+/home/mi-usuario/Documentos/AWS/
+.
+├── Entrega-1
+    ├── Lab-11-Intro-a-Amazon-EC2
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-1-Entorno-de-Pruebas
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-225-Introduccion-a-Linux-Amazon-AMI
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-227-Linea-de-comandos-de-Linux
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-229-Usuarios-y-grupos
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-231-Edicion-de-archivos
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-233-Trabajo-con-el-sistema-de-archivos
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-235-Trabajo-con-archivos
+    │   ├── README.md
+    │   └── src
+    │       
+    ├── Lab-237-Administración-de-los-permisos-de-archivos
+    │   ├── README.md
+    │   └── src
+    │       
+    └── Lab-239-Procesos-administrativos
+        ├── README.md
+        └── src
+```
+
+## Índice
+
+#### Introducción
+
+* [Lab 1: Entorno de pruebas](./Lab-1-Entorno-de-Pruebas/README.md)
+* [Lab 11: Introducción a Amazon EC2](./Lab-1-Entorno-de-Pruebas/README.md)
+
+#### Linux
+
+* [Lab 225: Introduccion a Linux Amazon AMI](./Lab-225-Introduccion-a-Linux-Amazon-AMI/README.md)
+* [Lab 227: Linea de comandos de Linux](./Lab-227-Linea-de-comandos-de-Linux/README.md)
+* [Lab 229: Usuarios y grupos](./Lab-229-Usuarios-y-grupos/README.md)
+* [Lab 231: Edicion de archivos](./Lab-231-Edicion-de-archivos/README.md)
+* [Lab 233: Trabajo con el sistema de archivos](./Lab-233-Trabajo-con-el-sistema-de-archivos/README.md)
+* [Lab 235: Trabajo con archivos](./Lab-235-Trabajo-con-archivos/README.md)
+* [Lab 237: Administración de los permisos de archivos](./Lab-237-Administración-de-los-permisos-de-archivos/README.md)
+* [Lab 239: Procesos administrativos](./Lab-239-Procesos-administrativos/README.md)
+
+
+###### Observaciones
+El paso de conexión por SSH a la instancia es bastante repetitivo y pienso quitarlo en la siguiente entrega.
