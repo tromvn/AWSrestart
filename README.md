@@ -14,16 +14,16 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 /home/mi-usuario/Documentos/AWS/
 .
 ├── Entrega-1
-|    ├── Lab-11-Intro-a-Amazon-EC2
+|    └── Lab
 |        ├── README.md
 |        └── src
 |
 ├── Entrega-2
-|	 ├── Lab
-|	 |    ├── README.md
-|    │    └── src
+|    └── Lab
+|         ├── README.md
+|         └── src
 |
-├── README.md    
+└── README.md    
 ```
 
 ## Índice
