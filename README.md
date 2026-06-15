@@ -14,50 +14,23 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 /home/mi-usuario/Documentos/AWS/
 .
 ├── Entrega-1
-    ├── Lab-11-Intro-a-Amazon-EC2
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-1-Entorno-de-Pruebas
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-225-Introduccion-a-Linux-Amazon-AMI
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-227-Linea-de-comandos-de-Linux
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-229-Usuarios-y-grupos
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-231-Edicion-de-archivos
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-233-Trabajo-con-el-sistema-de-archivos
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-235-Trabajo-con-archivos
-    │   ├── README.md
-    │   └── src
-    │       
-    ├── Lab-237-Administración-de-los-permisos-de-archivos
-    │   ├── README.md
-    │   └── src
-    │       
-    └── Lab-239-Procesos-administrativos
-        ├── README.md
-        └── src
+|    ├── Lab-11-Intro-a-Amazon-EC2
+|        ├── README.md
+|        └── src
+|
+├── Entrega-2
+|	 ├── Lab
+|	 |    ├── README.md
+|    │    └── src
+|
+├── README.md    
 ```
 
 ## Índice
 
-### Introducción
+### Entrega-1
+
+#### Introducción
 
 * [Lab 1: Entorno de pruebas](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
 * [Lab 11: Introducción a Amazon EC2](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
@@ -73,6 +46,8 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 * [Lab 237: Administración de los permisos de archivos](./Entrega-1/Lab-237-Administración-de-los-permisos-de-archivos/)
 * [Lab 239: Procesos administrativos](./Entrega-1/Lab-239-Procesos-administrativos/)
 
-##### Observaciones
+**Observaciones**: El paso de conexión por SSH a la instancia es bastante repetitivo y pienso quitarlo en la siguiente entrega.
 
-El paso de conexión por SSH a la instancia es bastante repetitivo y pienso quitarlo en la siguiente entrega.
+### Entrega-2
+
+* [Lab 241: Serivicios administrativos](/Entrega-2/Lab-241-Servicios-administrativos/)
