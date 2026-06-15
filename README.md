@@ -1,3 +1,7 @@
+---
+title: Inicio 
+nav_order: 1 
+---
 # Documentación de Laboratorios
 
 Este es un repositorio donde creo la documentación de los laboratorios realizados en el programa AWS re/Start, cursado en Morris&Opazo.
