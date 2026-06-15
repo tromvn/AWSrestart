@@ -33,7 +33,7 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 #### Introducción
 
 * [Lab 1: Entorno de pruebas](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
-* [Lab 11: Introducción a Amazon EC2](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
+* [Lab 11: Introducción a Amazon EC2](./Entrega-1/Lab-11-Intro-a-Amazon-EC2/)
 
 #### Linux
 
