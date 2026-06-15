@@ -50,4 +50,4 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 
 ### Entrega-2
 
-* [Lab 241: Serivicios administrativos](/Entrega-2/Lab-241-Servicios-administrativos/)
+* [Lab 241: Serivicios administrativos](./Entrega-2/Lab-241-Servicios-administrativos/)
