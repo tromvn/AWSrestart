@@ -1,5 +1,5 @@
 ---
-title: "Lab 241: Servicios administrativos"
+title: "Lab 241: Administración de servicios"
 parent: Entrega 2
 nav_order: 1
 ---

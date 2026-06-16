@@ -1,5 +1,5 @@
 ---
-title: "Lab 229: Usuarios y grupos"
+title: "Lab 229: Usuarios y grupos de Linux"
 parent: Entrega 1
 nav_order: 5
 ---

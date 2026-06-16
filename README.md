@@ -43,10 +43,10 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 
 #### Linux
 
-* [Lab 225: Introduccion a Linux Amazon AMI](./Entrega-1/Lab-225-Introduccion-a-Linux-Amazon-AMI/)
-* [Lab 227: Linea de comandos de Linux](./Entrega-1/Lab-227-Linea-de-comandos-de-Linux/)
-* [Lab 229: Usuarios y grupos](./Entrega-1/Lab-229-Usuarios-y-grupos/)
-* [Lab 231: Edicion de archivos](./Entrega-1/Lab-231-Edicion-de-archivos/)
+* [Lab 225: Introducción a Linux Amazon AMI](./Entrega-1/Lab-225-Introduccion-a-Linux-Amazon-AMI/)
+* [Lab 227: Línea de comandos de Linux](./Entrega-1/Lab-227-Linea-de-comandos-de-Linux/)
+* [Lab 229: Usuarios y grupos de Linux](./Entrega-1/Lab-229-Usuarios-y-grupos/)
+* [Lab 231: Edición de archivos](./Entrega-1/Lab-231-Edicion-de-archivos/)
 * [Lab 233: Trabajo con el sistema de archivos](./Entrega-1/Lab-233-Trabajo-con-el-sistema-de-archivos/)
 * [Lab 235: Trabajo con archivos](./Entrega-1/Lab-235-Trabajo-con-archivos/)
 * [Lab 237: Administración de los permisos de archivos](./Entrega-1/Lab-237-Administración-de-los-permisos-de-archivos/)
@@ -58,4 +58,4 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 
 #### Linux
 
-* [Lab 241: Serivicios administrativos](./Entrega-2/Lab-241-Servicios-administrativos/)
+* [Lab 241: Administración de servicios](./Entrega-2/Lab-241-Servicios-administrativos/)
