@@ -1,3 +1,8 @@
+---
+title: Lab 1: Entorno de pruebas
+parent: Entrega 1
+nav_order: 1
+---
 # Entorno de pruebas
 
 ## 1. Lanzar una instancia  
@@ -138,4 +143,4 @@ sudo dnf localinstall fastfetch-linux-amd64.rpm
 
 ## Conclusiones  
   
-  A primera vista, la consola es abrumadora. Requiere lectura lenta y atenta para ir digiriendo. Con las guías y previas demostraciones, no fue tan abrumador, de todos modos. Con este primer acercamiento, intuyo que la estructura o comportamiento de los otros servicios tendrá una que otra similitud. En fin, puedo decir que fue una buena primera experiencia. 
+  A primera vista, la consola es abrumadora. Requiere lectura lenta y atenta para ir digiriendo. Con las guías y previas demostraciones, no fue tan abrumador, de todos modos. Con este primer acercamiento, intuyo que la estructura o comportamiento de los otros servicios tendrá una que otra similitud. En fin, puedo decir que fue una buena primera experiencia.
