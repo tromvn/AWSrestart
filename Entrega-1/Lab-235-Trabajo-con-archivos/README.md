@@ -1,3 +1,8 @@
+---
+title: "Lab 235: Trabajo con archivos"
+parent: Entrega 1
+nav_order: 8
+---
 # Trabajo con archivos
 
 ## Objetivos

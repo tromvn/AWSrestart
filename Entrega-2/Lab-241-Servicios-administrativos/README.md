@@ -1,3 +1,8 @@
+---
+title: "Lab 241: Servicios administrativos"
+parent: Entrega 2
+nav_order: 1
+---
 # Administración de servicios: supervisión
  
 ## Objetivos

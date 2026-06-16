@@ -1,3 +1,8 @@
+---
+title: "Lab 227: Línea de comandos de Linux"
+parent: Entrega 1
+nav_order: 4
+---
 # Línea de comandos de Linux
 
 

@@ -1,3 +1,8 @@
+---
+title: "Lab 233: Trabajo con el sistema de archivos"
+parent: Entrega 1
+nav_order: 7
+---
 # Trabajo con el sistema de archivos
 
 ```
@@ -50,4 +55,4 @@ Unas semanas más tarde, le piden que reorganice el contenido de la siguiente ma
 
 #### Impresiones
 
-Aprendí algunos comandos y formas nuevas. También corroboré el funcionamiento de rm, mv y cp con los directorios, por ejemplo, mv no necesira -r para mover directorios con subdirectorios, en cambio, cp y rm sí para copiar y eliminar respectivamente. 
+Aprendí algunos comandos y formas nuevas. También corroboré el funcionamiento de rm, mv y cp con los directorios, por ejemplo, mv no necesira -r para mover directorios con subdirectorios, en cambio, cp y rm sí para copiar y eliminar respectivamente.

@@ -1,3 +1,8 @@
+---
+title: "Lab 239: Procesos administrativos"
+parent: Entrega 1
+nav_order: 10
+---
 # Administración de procesos
  
 ## Objetivos

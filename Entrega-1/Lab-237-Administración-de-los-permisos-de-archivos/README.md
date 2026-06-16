@@ -1,3 +1,8 @@
+---
+title: "Lab 237: Administración de los permisos de archivos"
+parent: Entrega 1
+nav_order: 9
+---
 # Administración de permisos de archivos
 
 ## Objetivos

@@ -1,3 +1,8 @@
+---
+title: "Lab 225: Introducción a Linux Amazon AMI"
+parent: Entrega 1
+nav_order: 3
+---
 # Introducción a la imagen de máquina de Amazon (AMI) de Amazon Linux
 
 Este laboratorio está diseñado para reforzar su conocimiento sobre la funcionalidad básica de la interfaz de línea de comandos y brindar una base sólida a partir de la cual puede continuar aprendiendo sobre nuevos comandos y capacidades dentro del intérprete de comandos de Linux.

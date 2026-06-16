@@ -1,3 +1,8 @@
+---
+title: "Lab 11: Introducción a Amazon EC2"
+parent: Entrega 1
+nav_order: 2
+---
 # Introducción a Amazon EC2
 
 ## Tarea 1: Lanzar una instancia de Amazon EC2

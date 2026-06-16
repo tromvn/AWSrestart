@@ -1,3 +1,8 @@
+---
+title: "Lab 229: Usuarios y grupos"
+parent: Entrega 1
+nav_order: 5
+---
 # Administración de usuarios y grupos
 
 ## Objetivos

@@ -1,3 +1,8 @@
+---
+title: "Lab 231: Edición de archivos"
+parent: Entrega 1
+nav_order: 6
+---
 # Edición de archivos
 
 ## Objetivos
