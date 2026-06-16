@@ -1,5 +1,5 @@
 ---
-title: Lab 1: Entorno de pruebas
+title: "Lab 1: Entorno de pruebas"
 parent: Entrega 1
 nav_order: 1
 ---
