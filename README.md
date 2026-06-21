@@ -14,7 +14,9 @@ Aquí detallo cómo están organizados los directorios, omitiendo algunos docume
 
 Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 
-**nota:** El árbol se irá actualizando y reestructurando conforme avancen las entregas, para mejor visualización.
+**nota:** El árbol tiene esta estructura aproximada.
+
+**nota2:** El índice con enlaces ahora está sólo en el navbar (lateral para desktop y sandwich para mobile)
 
 ```
 /home/mi-usuario/Documentos/AWS/
@@ -32,30 +34,16 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 └── README.md    
 ```
 
-## Índice
+## Contenido
 
 ### Entrega-1
 
-#### Introducción
-
-* [Lab 1: Entorno de pruebas](./Entrega-1/Lab-1-Entorno-de-Pruebas/)
-* [Lab 11: Introducción a Amazon EC2](./Entrega-1/Lab-11-Intro-a-Amazon-EC2/)
-
-#### Linux
-
-* [Lab 225: Introducción a Linux Amazon AMI](./Entrega-1/Lab-225-Introduccion-a-Linux-Amazon-AMI/)
-* [Lab 227: Línea de comandos de Linux](./Entrega-1/Lab-227-Linea-de-comandos-de-Linux/)
-* [Lab 229: Usuarios y grupos de Linux](./Entrega-1/Lab-229-Usuarios-y-grupos/)
-* [Lab 231: Edición de archivos](./Entrega-1/Lab-231-Edicion-de-archivos/)
-* [Lab 233: Trabajo con el sistema de archivos](./Entrega-1/Lab-233-Trabajo-con-el-sistema-de-archivos/)
-* [Lab 235: Trabajo con archivos](./Entrega-1/Lab-235-Trabajo-con-archivos/)
-* [Lab 237: Administración de los permisos de archivos](./Entrega-1/Lab-237-Administración-de-los-permisos-de-archivos/)
-* [Lab 239: Procesos administrativos](./Entrega-1/Lab-239-Procesos-administrativos/)
+1. Introducción
+2. Linux I
 
 **Observaciones**: El paso de conexión por SSH a la instancia es bastante repetitivo y pienso quitarlo en la siguiente entrega.
 
 ### Entrega-2
 
-#### Linux
-
-* [Lab 241: Administración de servicios](./Entrega-2/Lab-241-Servicios-administrativos/)
+1. Linux II
+2. Redes I
