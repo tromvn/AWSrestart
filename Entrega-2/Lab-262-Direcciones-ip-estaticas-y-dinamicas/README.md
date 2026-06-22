@@ -1,9 +1,7 @@
 ---
-
 title: "Lab 262: Direcciones IP estáticas y dinámicas"
 parent: Entrega 2
 nav_order: 9
-
 ---
 
 # Lab 262: Protocolos de Internet: direcciones estáticas y dinámicas
