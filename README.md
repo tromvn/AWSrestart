@@ -47,3 +47,8 @@ Esta forma es necesaria para la forma en que lo publicaré en GitHub Pages
 
 1. Linux II
 2. Redes I
+
+### Entrega-2
+
+1. Redes II
+2. Seguridad I
