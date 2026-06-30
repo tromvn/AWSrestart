@@ -1,5 +1,5 @@
 ---
-title: "Lab 264: Recursos de red para una VPC"
+title: "Lab 277: Endurecimiento de sistemas"
 parent: Entrega 3
 nav_order: 5
 ---

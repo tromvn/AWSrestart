@@ -1,5 +1,5 @@
 ---
-title: "Lab 264: Recursos de red para una VPC"
+title: "Lab 265: Comandos de solución de problemas del protocolo de Internet"
 parent: Entrega 3
 nav_order: 1
 ---

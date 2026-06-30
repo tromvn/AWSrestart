@@ -1,5 +1,5 @@
 ---
-title: "Lab 264: Recursos de red para una VPC"
+title: "Lab 266: Solución de problemas de red"
 parent: Entrega 3
 nav_order: 2
 ---
