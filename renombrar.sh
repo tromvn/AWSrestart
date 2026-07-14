@@ -1,27 +1,29 @@
 #!/bin/bash
 
-# Evita que el script se borre si se ejecuta en la raíz del proyecto
-if [ "$PWD" = "/home/tromvn/Documentos/AWS" ]; then
-  echo "Error: No ejecutes este script en la raíz."
-  exit 1
-fi
+echo "Iniciando proceso de renombrado en carpetas 'src'..."
 
-for f in *; do
-  # Evita renombrar este propio script
-  if [ "$f" = "renombrar.sh" ]; then
-    continue
-  fi
+# Busca todas las carpetas llamadas 'src' dentro de la ruta actual
+find . -type d -name "src" | while read -r carpeta_src; do
+  
+  echo "Procesando: $carpeta_src"
+  
+  # Entra a la carpeta src, ejecuta el renombrado y vuelve
+  (
+    cd "$carpeta_src" || exit
+    
+    # Recorre todos los archivos dentro del src actual
+    for f in *; do
+      # Si la carpeta está vacía, evita errores
+      [ -e "$f" ] || continue
+      
+      # Evita renombrar subcarpetas si las hubiera
+      [ -f "$f" ] || continue
 
-  # Evita renombrar carpetas
-  if [ -d "$f" ]; then
-    continue
-  fi
+      # Cambia el nombre agregando .png (sin duplicarlo si ya lo tiene)
+      mv "$f" "${f%.png}.png"
+    done
+  )
 
-  # Cambia el nombre correctamente sin duplicar la extensión
-  mv "$f" "${f%.png}.png"
 done
 
-echo "Operación exitosa. Autodestruyendo"
-
-# --- Autoeliminación al finalizar ---
-trap 'rm -f -- "$0"' EXIT
+echo "Operación exitosa. Todos los archivos en carpetas 'src' ahora son .png"
