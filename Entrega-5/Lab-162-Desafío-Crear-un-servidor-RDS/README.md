@@ -1,7 +1,7 @@
 ---
 title: "Lab 162: Desafío. Crear un servidor de base de datos e interactuar con la base de datos"
 parent: Entrega 5
-nav_order: 9
+nav_order: 10
 ---
 # Lab 162: Desafío. Crear un servidor de base de datos e interactuar con la base de datos
 
@@ -56,4 +56,3 @@ Para finalizar el desafío, realice lo siguiente:
 6. Inner join para cruzar datos de ambas tablas con Stutend ID
 
 	![](src/14-inner-join.png)
-
